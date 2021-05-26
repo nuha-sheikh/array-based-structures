@@ -4,7 +4,7 @@ Improve my understanding of array-based data structures; ArrayList, ArrayQueue, 
 
 Program Author: Nuha Sheikh
 
-Purpose: COMP 2402 Assignment, Abstract Data Structures and Algorithms 
+Purpose: COMP 2402 Assignment, Abstract Data Structures and Algorithms
 
 Files:
 - comp2402a2/MyDeque.java
